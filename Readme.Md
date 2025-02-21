@@ -6,7 +6,7 @@ Welcome to my webpage! This project was created as part of a bootcamp challenge.
 
 This webpage showcases my skills and what I have learned so far in my bootcamp. It includes:
 
-- A responsive layout
+- A "somewhat" responsive layout
 - Basic HTML and CSS
 - JavaScript functionality
 
@@ -27,11 +27,11 @@ To view the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Ka-iPy/Bootcamp.git
+    git clone https://github.com/Ka-iPy/Javascript.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Bootcamp
+    cd Javascript
     ```
 3. Open `index.html` in your preferred web browser.
 
