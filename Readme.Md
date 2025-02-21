@@ -39,7 +39,4 @@ To view the project locally, follow these steps:
 
 Feel free to reach out to me for any questions or feedback!
 
-- **Email**: your-email@example.com
-- **GitHub**: [Ka-iPy](https://github.com/yourusername)
-
 Thank you for visiting my webpage!
